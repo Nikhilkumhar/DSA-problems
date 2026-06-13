@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DSASeries/DSASeries.iml" filepath="$PROJECT_DIR$/DSASeries/DSASeries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaProject.iml" filepath="$PROJECT_DIR$/.idea/JavaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSeries/JavaSeries.iml" filepath="$PROJECT_DIR$/JavaSeries/JavaSeries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSeries/src/Oops/Oops.iml" filepath="$PROJECT_DIR$/JavaSeries/src/Oops/Oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+    </modules>
+  </component>
+</project>
