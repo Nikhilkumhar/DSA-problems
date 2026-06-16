@@ -5,6 +5,8 @@
 # Build folders
 target/
 out/
+JavaSeries/
+Recursion/
 
 # Java class files
 *.class
