@@ -1,4 +1,4 @@
-package com.placement;
+package com.BinaryTree;
 
 class TreeNode{
     int val;
