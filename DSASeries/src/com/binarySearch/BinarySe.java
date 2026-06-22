@@ -1,6 +1,6 @@
-package com.leetcode;
+package com.binarySearch;
 
-public class BinaryS {
+public class BinarySe {
 
     static int helperBS(int[] arr, int target) {
         int lo = 0;
